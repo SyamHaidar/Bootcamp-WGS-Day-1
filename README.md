@@ -1,6 +1,6 @@
 # Bootcamp WGS - Day 1
 
-## Lesson 
+### Lesson 
 
 1. Git
 2. Node
